@@ -55,5 +55,3 @@ all_new_matrices
 print(new_matrix2)
 MDS <- do.call(rbind.data.frame, all_new_matrices)
 print(MDS)
-
-test
